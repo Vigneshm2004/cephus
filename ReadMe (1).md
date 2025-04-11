@@ -204,22 +204,4 @@ This project contains mainly two steps:
    ```
 
 
-## Usage
-
-[Demo Video](https://youtu.be/CUQMihkrR0I) <br>      
-
-
-
-**Screen shorts:** <br>
- <img src="readme_assests/1.User connecting their wallet.png" width="400" height="300"> 
- <img src="readme_assests/2.User Registration.png" width="400" height="300"> 
- <img src="readme_assests/3.Adding their land.png" width="400" height="300"> 
- <img src="readme_assests/4.Transaction to add land details.png" width="400" height="300"> 
- <img src="readme_assests/5.Revenue portal.png" width="400" height="300"> 
- <img src="readme_assests/6.Revenue officer accepting the land.png" width="400" height="300"> 
- <img src="readme_assests/7.Making the land available to sell.png" width="400" height="300"> 
- <img src="readme_assests/8.Buyer requesting purchase request.png" width="400" height="300"> 
- <img src="readme_assests/9.Seller accepting buyer request.png" width="400" height="300"> 
- <img src="readme_assests/10.Buyer making paymet.png" width="400" height="300"> 
- <img src="readme_assests/11.Ownership transferred to buyer.png" width="400" height="300"> 
 
